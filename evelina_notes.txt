@@ -1,0 +1,15 @@
+Characters that correspond:
+
+Lady Howard
+Rev. Mr. Villars
+Evelina
+John Belmont, Bart
+
+
+http://find.galegroup.com/ecco/retrieve.do?scale=0.33&sort=Author&docLevel=FASCIMILE&prodId=ECCO&tabID=T001&resultListType=RESULT_LIST&retrieveFormat=MULTIPAGE_DOCUMENT&inPS=true&userGroupName=swar94187&docId=CW3314248775&currentPosition=50&workId=0779700701&relevancePageBatch=CW114248531&contentSet=ECCOArticles&callistoContentSet=ECCOArticles&resultListType=RESULT_LIST&reformatPage=N&retrieveFormat=MULTIPAGE_DOCUMENT&scale=0.33&pageIndex=244&orientation=&showLOI=&quickSearchTerm=&stwFuzzy=&doDirectDocNumSearch=false&searchId=
+
+Volume 1 in 1794 edition ends with XLV. 
+
+#TODO: evelina's name should change throughout the course of email sending.
+#TODO: rename filenames for letters 3 and 75 (in code probably...)
+#TODO: Throw errors
