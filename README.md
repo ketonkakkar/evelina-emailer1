@@ -1,4 +1,4 @@
-A program that renders the 18th century epistolary novel _Evelina_ as a series of email exchanges between characters that you are ccd on.
+A program that renders the 18th century epistolary novel _Evelina_ as a series of email exchanges between characters that you are cc'd on.
 
 Powered by the Swarthmore College Computer Society (SCCS)'s mail server, which can only be used locally. To use this program, you need access to a mail server. For the time being, I will run the progam locally on SCCS's server, and to use the program without having access to a mail server, email me at kkakkar1 [at] swarthmore [dot] edu, and I will run it with your address. The code on this repository is the same as I will run, except with the server login information omitted.
 
