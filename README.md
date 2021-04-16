@@ -74,7 +74,7 @@ In your working directory, run:
 
 Also, due to the spam filtering of most email clients, check your spam folder for the emails.
 
-I have checked for some errors, but the error checking is not robust. Please contact me at kkakkar1@swarthmore.edu if you run into issues. 
+I have checked for some errors, but the error checking is not robust. Please contact me at ketonkakkar@gmail.com if you run into issues. 
 
 Cheers,
 
